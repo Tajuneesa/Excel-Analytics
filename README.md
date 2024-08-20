@@ -3,8 +3,8 @@
 ## Sales Report
 
 - **Project Objectives:**
-  1. Created a customer performance report.
-  2. Conducted a comprehensive comparison between market performance and sales targets.
+  1. Created a customer performance report. [https://github.com/Tajuneesa/Excel-Analytics/blob/main/Customer%20Performance%20Report.pdf]
+  2. Conducted a comprehensive comparison between market performance and sales targets. [https://github.com/Tajuneesa/Excel-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf]
 
 - **Purpose of Sales Analytics:**  
   Empower businesses to monitor and evaluate their sales activities and performance.
@@ -19,7 +19,10 @@
 
 - **Project Objectives:**
   1. Created Profit and Loss (P&L) reports by Fiscal Year & Month.
+     Year -  [https://github.com/Tajuneesa/Excel-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf]
+     Month - [https://github.com/Tajuneesa/Excel-Analytics/blob/main/P%26L%20Statement%20by%20Months1.pdf]
   2. Created Profit and Loss (P&L) reports by markets
+     [https://github.com/Tajuneesa/Excel-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf]
 
 - **Purpose of Finance Analytics:**  
   Evaluate financial performance, support decision-making, and facilitate communication with stakeholders.
